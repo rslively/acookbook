@@ -2,3 +2,6 @@ This is some information.
 Another line
 And yet another
 I added this on github
+
+This is a bug fix
+
