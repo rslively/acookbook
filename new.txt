@@ -3,7 +3,9 @@ Another line
 And yet another
 I added this on hub
 
-This is a bug fix
+Ths is a ug fix
 
 SSA-1234
 A fix
+
+More stuff
